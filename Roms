@@ -1,0 +1,19 @@
+{
+  "reponame":"Repo Name",
+  "repologo":"https://example.com/icon.png",
+  "repoauthor":"Repo Author",
+  "repodesc":"This is an example Eclipse repo. It is pretty cool.",
+  "categories":[
+    {
+      "categoryname":"My Games",
+      "games":[
+        {
+          "name":"Puyo Pop",
+          "link":"https://drive.google.com/open?id=18tuRQvzil6hWwvMSc9vaZ_AESEQIWSU_",
+          "boxart":"Game Boxart",
+          "system":"GBA"
+        }
+      ]
+    }
+  ]
+}
